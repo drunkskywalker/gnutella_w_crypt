@@ -1,1 +1,1 @@
-# gnutella_w_crypt
+# Gnutella style P2P file sharing system with cryptographic security

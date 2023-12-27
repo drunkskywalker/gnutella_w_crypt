@@ -1,0 +1,24 @@
+{
+    "logFilePath": "/var/log/gnutella.log",
+    "fileDirectory": "./files",
+    "maxPeers": 5,
+    "maxInitPeers": 3,
+    "messagePort": 19170,
+    "filePort": 19171,
+    "userPort": 19172,
+    "queryTimeToLive": 10,
+    "cacheTimeToCheck": 10,
+    "cacheTimeToLive": 30,
+    "famousNodes": [
+        {
+            "hostName": "vcm-35050.vm.duke.edu",
+            "port": 19170,
+            "id": "test"
+        },
+        {
+            "hostName": "vcm-36071.vm.duke.edu",
+            "port": 19170,
+            "id": "test2"
+        }
+    ]
+}
